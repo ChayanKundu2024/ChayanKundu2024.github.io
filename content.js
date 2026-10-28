@@ -24,10 +24,9 @@ const SITE = {
      Leave "" (empty) and that button stays hidden. */
   links: {
     email: "kunduchayan28@gmail.com",
-    linkedin: "",
-    scholar: "",
-    orcid: "",
-    researchgate: ""
+    linkedin: "www.linkedin.com/in/chayan-kundu-69347a226",
+    scholar: "https://scholar.google.com/citations?user=ubbpjwEAAAAJ&hl=en",
+    orcid: "https://orcid.org/0009-0007-8105-5474"
   }
 };
 
