@@ -17,7 +17,7 @@ const SITE = {
   name: "Chayan Kundu",
   title: "PhD Candidate · Exercise & Space Physiology",
   affiliation: "Ramakrishna Mission Vivekananda Educational and Research Institute, West Bengal, India",
-  photo: "images/photo.jpg",     // put your photo in the images folder with this name
+  photo: "photo.jpg",     // put your photo in the images folder with this name
   about: "I am a PhD candidate working in the field of Exercise and Space Physiology, focused on understanding human physiological adaptations to extreme environments. I have been working on cardiorespiratory and neurocognitive changes due to simulated microgravity using 6° head-down tilt. Curious by nature, I enjoy exploring ideas beyond traditional academics and connecting research with real-world impact.",
 
   /* Links: paste the full web address between the quotes.
