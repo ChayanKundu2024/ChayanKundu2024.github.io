@@ -61,11 +61,11 @@ const EDUCATION = [
   },
   {
     title: "Master in Sports Science",
-    where: "Ramakrishna Mission Vivekananda Educational and Research Institute",
+    where: "Ramakrishna Mission Vivekananda Educational and Research Institute, West Bengal, India",
     when: "2022 – 2024",
     points: [
       "CGPA: 8.28",
-      "Exposed to Applied Sports Physiology, Exercise Physiology and Kinesiology, Strength and Conditioning, Sports Psychology and others."
+      "Exposed to Applied Sports Physiology, Exercise Physiology and Kinesiology, Strength and Conditioning, Sports Psychology etc."
     ]
   },
   {
@@ -89,7 +89,7 @@ const TEACHING = [
   {
     title: "Applied Sports Physiology",
     where: "Postgraduate level · Ramakrishna Mission Vivekananda Educational and Research Institute",
-    when: "2025 – present",
+    when: "2024 – present",
     points: [
       "Lectures on physiological responses and adaptations to exercise, and recovery.",
       "Example line: add practical sessions, topics or materials you teach here."
@@ -125,11 +125,6 @@ const EXPERIENCE = [
     points: [
       "Assisted in physiological and psychological testing of U-17 tennis players and U-19 footballers."
     ]
-  },
-  {
-    title: "Observer and Athlete Profiling",
-    where: "Jharkhand State Sports Promotion Society (JSSPS)",
-    points: ["Observed training across various Olympic sports and did athlete profiling."]
   }
 ];
 
@@ -168,13 +163,12 @@ const TRAINING = [
 ];
 
 /* Skills (small tags) */
-const SKILLS = [
-  "SPSS",
-  "Python",
-  "Anthropometry (ISAK Level 2)",
-  "Load monitoring (Statsports)",
-  "English · Hindi · Bengali"
-];
+//const SKILLS = [
+//  "Statistical Analysis using SPSS, Python, R",
+//  "Anthropometry (ISAK Level 2)",
+//  "Load monitoring (Statsports)",
+//  "English · Hindi · Bengali"
+//];
 
 
 /* ---------- 7. CONFERENCES & WORKSHOPS ATTENDED (newest first) ---------- */
@@ -264,28 +258,28 @@ const AWARDS = [
    Your name is made bold automatically if written "Chayan Kundu". */
 const PUBLICATIONS = [
   {
-    authors: "Adhikari R., Clarke A., Kamath S., Godase S., Chayan Kundu, Easow J., Pullinger S. A., Edwards B. J.",
+    authors: "Adhikari R., Clarke A., Kamath S., Godase S., <strong> Chayan Kundu </strong>, Easow J., Pullinger S. A., Edwards B. J.",
     title: "From stigma to strength: Menstrual health awareness, practices and beliefs in Indian female athletes",
     journal: "International Journal of Sports Science & Coaching, 21(4), 2201-2212",
     year: "2026",
     doi: ""
   },
   {
-    authors: "Adhikari R., Chayan Kundu, Giacomoni M., Johnson K., Kamath S., Edwards B. J., Pullinger S. A.",
+    authors: "Adhikari R.,<strong> Chayan Kundu </strong>, Giacomoni M., Johnson K., Kamath S., Edwards B. J., Pullinger S. A.",
     title: "Menstrual Cycle Length Variability and Its Physiological Correlates in Indian Combat Athletes: An Observational Study",
     journal: "Women in Sport and Physical Activity Journal, 34(1)",
     year: "2026",
     doi: ""
   },
   {
-    authors: "Chayan Kundu, Sharma S., Ghosh T., Deepak K. K., Das A.",
+    authors: "<strong> Chayan Kundu </strong>, Sharma S., Ghosh T., Deepak K. K., Das A.",
     title: "Short-term 6° head-down tilt bed rest simulating microgravity ameliorates blood pressure and heart rate variability: A quasi-experimental study on healthy adults",
     journal: "Life Sciences in Space Research",
     year: "2025",
     doi: ""
   },
   {
-    authors: "Adhikari R., Ghosh S., Chayan Kundu, Kamath S.",
+    authors: "Adhikari R., Ghosh S.,<strong> Chayan Kundu </strong>, Kamath S.",
     title: "Weight class comparison of physical and physiological parameters in Indian female judokas",
     journal: "International Journal of Kinanthropometry, 4(3), 44-56",
     year: "2024",
@@ -308,12 +302,6 @@ const PRESENTATIONS = [
     title: "Immediate Effect of Simulated Microgravity Exposure on Cardiac Autonomic Functions of Healthy Adults",
     event: "2nd International Conference of the Indian Society of Sports and Exercise Medicine (ISSEMCON 2024), Banaras Hindu University, Varanasi, India",
     when: "18 November 2024"
-  },
-  {
-    type: "Oral presentation",
-    title: "Analysis of growth and performance parameters among sports participants belonging to Multi Event Stage under Jharkhand State Sports Promotion Society",
-    event: "National Conference on Sports Science: A Multi Disciplinary Approach to enhance sports performance, RKMVERI, GAPEY",
-    when: "February 2023"
   }
 ];
 
