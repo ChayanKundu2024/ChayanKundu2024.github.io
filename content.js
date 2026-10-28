@@ -70,7 +70,7 @@ const EDUCATION = [
   },
   {
     title: "B.Sc. Physiology (Honours)",
-    where: "Calcutta University",
+    where: "Calcutta University, West Bengal, India",
     when: "2019 – 2022",
     points: ["CGPA: 8.462 (1st Division)"]
   },
@@ -87,12 +87,12 @@ const EDUCATION = [
    EXAMPLE ENTRY - edit the text to match your real teaching.      */
 const TEACHING = [
   {
-    title: "Applied Sports Physiology",
+    title: "Applied Sports Physiology (SSMSCT 301)",
     where: "Postgraduate level · Ramakrishna Mission Vivekananda Educational and Research Institute",
-    when: "2024 – present",
+    when: "2025 – present",
     points: [
       "Lectures on physiological responses and adaptations to exercise, and recovery.",
-      "Example line: add practical sessions, topics or materials you teach here."
+      "Practicals on Cardiopulmonary Exercise Testing, HRV measurement and interpretation"
     ]
   }
 ];
@@ -189,7 +189,7 @@ const CONFERENCES = [
   },
   {
     title: "2nd International Conference of the Indian Society of Sports and Exercise Medicine (ISSEMCON 2024)",
-    where: "Dept. of Physiology, IMS, Banaras Hindu University, Varanasi, India",
+    where: "Dept. of Physiology, Institute of Medical Sciences, Banaras Hindu University, Varanasi, India",
     when: "15 – 16 November 2024"
   },
   {
@@ -233,7 +233,7 @@ const AWARDS = [
     when: "2024"
   },
   {
-    title: "Represented the university in football at the All India University Games (South Zone)",
+    title: "Represented RKMVERI university in football at the All India University Games (South Zone)",
     when: "2022"
   },
   {
