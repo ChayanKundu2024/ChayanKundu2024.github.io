@@ -252,33 +252,33 @@ const AWARDS = [
         (no https://). The site turns it into a link. "" = no link.
    Your name is made bold automatically if written "Chayan Kundu". */
 const PUBLICATIONS = [
-  {
-    authors: "Adhikari R., Clarke A., Kamath S., Godase S., <strong> Chayan Kundu </strong>, Easow J., Pullinger S. A., Edwards B. J.",
-    title: "From stigma to strength: Menstrual health awareness, practices and beliefs in Indian female athletes",
-    journal: "International Journal of Sports Science & Coaching, 21(4), 2201-2212",
+   {
+    authors: "<strong> Chayan Kundu </strong>, Sharma S., Ghosh T., Deepak K. K., Das A.",
+    title: "Short-term 6° head-down tilt bed rest simulating microgravity ameliorates blood pressure and heart rate variability: A quasi-experimental study on healthy adults",
+    journal: "Life Sciences in Space Research, 48, 225-231",
     year: "2026",
-    doi: ""
+    doi: "https://doi.org/10.1016/j.lssr.2025.11.014"
   },
-  {
+    {
     authors: "Adhikari R.,<strong> Chayan Kundu </strong>, Giacomoni M., Johnson K., Kamath S., Edwards B. J., Pullinger S. A.",
     title: "Menstrual Cycle Length Variability and Its Physiological Correlates in Indian Combat Athletes: An Observational Study",
     journal: "Women in Sport and Physical Activity Journal, 34(1)",
     year: "2026",
-    doi: ""
+    doi: "https://doi.org/10.1123/wspaj.2026-0061"
   },
-  {
-    authors: "<strong> Chayan Kundu </strong>, Sharma S., Ghosh T., Deepak K. K., Das A.",
-    title: "Short-term 6° head-down tilt bed rest simulating microgravity ameliorates blood pressure and heart rate variability: A quasi-experimental study on healthy adults",
-    journal: "Life Sciences in Space Research",
-    year: "2025",
-    doi: ""
+   {
+    authors: "Adhikari R., Clarke A., Kamath S., Godase S., <strong> Chayan Kundu </strong>, Easow J., Pullinger S. A., Edwards B. J.",
+    title: "From stigma to strength: Menstrual health awareness, practices and beliefs in Indian female athletes",
+    journal: "International Journal of Sports Science & Coaching, 21(4), 2201-2212",
+    year: "2026",
+    doi: "https://doi.org/10.1177/17479541251395165"
   },
   {
     authors: "Adhikari R., Ghosh S.,<strong> Chayan Kundu </strong>, Kamath S.",
     title: "Weight class comparison of physical and physiological parameters in Indian female judokas",
     journal: "International Journal of Kinanthropometry, 4(3), 44-56",
     year: "2024",
-    doi: ""
+    doi: "https://doi.org/10.34256/ijk2435"
   }
 ];
 
