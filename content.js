@@ -151,7 +151,7 @@ const TRAINING = [
 ];
 
 /* Skills (small tags) */
-//const SKILLS = [];
+const SKILLS = [];
 
 
 /* ---------- 7. CONFERENCES & WORKSHOPS ATTENDED (newest first) ---------- */
