@@ -20,7 +20,6 @@
   /* ---------- menu (edit here to add / rename pages) ---------- */
   const PAGES = [
     ["index", "Home", "index.html"],
-    ["publications", "Publications", "publications.html"],
     ["articles", "Articles", "articles.html"]
   ];
   const here = (location.pathname.split("/").pop() || "index").replace(".html", "") || "index";
@@ -162,9 +161,9 @@
   renderFooter();
   renderHero();
   const about = $("about");
-  if (about) about.textContent = SITE.about;
+  if (about) about.innerHTML = SITE.about;
   renderChips("interests", INTERESTS);
-  renderChips("skills", SKILLS);
+  if (typeof SKILLS !== "undefined") renderChips("skills", SKILLS);
   renderList("education", EDUCATION);
   renderList("teaching", TEACHING);
   renderList("experience", EXPERIENCE);
