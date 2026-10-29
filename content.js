@@ -94,7 +94,7 @@ const TEACHING = [
 
 
 /* ---------- 5. WORK EXPERIENCE (newest first) ---------- */
-const PROFESSIONAL EXPERIENCE = [
+const EXPERIENCE = [
   {
     title: "Sports Science Intern",
     where: "Khelo India State Centre of Excellence, Kalinga Stadium, Odisha, India",
