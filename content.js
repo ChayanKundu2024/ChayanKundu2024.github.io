@@ -55,28 +55,23 @@ const EDUCATION = [
     ]
   },
   {
-    title: "UGC NET",
-    when: "June & December 2023",
-    points: ["Qualified for Junior Research Fellowship and Assistant Professor."]
-  },
-  {
     title: "Master in Sports Science",
     where: "Ramakrishna Mission Vivekananda Educational and Research Institute, West Bengal, India",
     when: "2022 – 2024",
     points: [
-      "CGPA: 8.28",
+      "CGPA: 8.28 (Gold Medal)",
       "Exposed to Applied Sports Physiology, Exercise Physiology and Kinesiology, Strength and Conditioning, Sports Psychology etc."
     ]
   },
   {
-    title: "B.Sc. Physiology (Honours)",
+    title: "Bachelors of Science (Honours in Physiology)",
     where: "Calcutta University, West Bengal, India",
     when: "2019 – 2022",
     points: ["CGPA: 8.462 (1st Division)"]
   },
   {
     title: "Higher Secondary Examination (CBSE)",
-    where: "Army Public School Barrackpore (PCMB)",
+    where: "Army Public School Barrackpore",
     when: "2018",
     points: ["82.2%"]
   }
@@ -99,7 +94,7 @@ const TEACHING = [
 
 
 /* ---------- 5. WORK EXPERIENCE (newest first) ---------- */
-const EXPERIENCE = [
+const PROFESSIONAL EXPERIENCE = [
   {
     title: "Sports Science Intern",
     where: "Khelo India State Centre of Excellence, Kalinga Stadium, Odisha, India",
@@ -117,13 +112,6 @@ const EXPERIENCE = [
       "Observed and assisted training of junior and sub-junior national level boys and girls.",
       "Hands-on experience using Statsports for load monitoring.",
       "Exposed to AMS (Halofit), periodic physiological testing, planning S&C and rehab sessions, psychological testing, video analysis and nutrition-diet planning."
-    ]
-  },
-  {
-    title: "Testing Assistant",
-    where: "Bengal Tennis Association · Chandannagar Sporting Association, West Bengal, India",
-    points: [
-      "Assisted in physiological and psychological testing of U-17 tennis players and U-19 footballers."
     ]
   }
 ];
@@ -163,7 +151,7 @@ const TRAINING = [
 ];
 
 /* Skills (small tags) */
-const SKILLS = [];
+//const SKILLS = [];
 
 
 /* ---------- 7. CONFERENCES & WORKSHOPS ATTENDED (newest first) ---------- */
@@ -226,6 +214,10 @@ const AWARDS = [
     title: "Best oral presentation award, Physical Therapy & Allied Health Sciences category",
     where: "ISSEMCON 2024, Institute of Medical Sciences, Banaras Hindu University, Varanasi, India",
     when: "2024"
+  },
+   {
+    title: "Qualified for Junior Research Fellowship and Assistant Professorship",
+    when: "UGC NET June & December 2023"
   },
   {
     title: "Represented RKMVERI university in football at the All India University Games (South Zone)",
