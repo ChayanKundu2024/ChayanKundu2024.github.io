@@ -20,7 +20,7 @@
   /* ---------- menu (edit here to add / rename pages) ---------- */
   const PAGES = [
     ["index", "Home", "index.html"],
-    ["articles", "Articles", "articles.html"]
+    //["articles", "Articles", "articles.html"]
   ];
   const here = (location.pathname.split("/").pop() || "index").replace(".html", "") || "index";
 
