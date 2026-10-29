@@ -220,7 +220,7 @@ const AWARDS = [
     when: "UGC NET June & December 2023"
   },
   {
-    title: "Represented RKMVERI university in football at the All India University Games (South Zone)",
+    title: "Represented RKMVERI University in football at the All India University Games (South Zone)",
     when: "2022"
   },
   {
