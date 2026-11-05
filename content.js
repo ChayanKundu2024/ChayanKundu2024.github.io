@@ -33,7 +33,7 @@ const SITE = {
 
 /* ---------- 2. RESEARCH INTERESTS (small tags) ---------- */
 const INTERESTS = [
-  "Investigating physiological effects of simulated microgravity: Cardiorespiratory, Autonomic, and Neurocognitive responses to short-term 6° HDT",
+  "Investigating Cardiorespiratory, Autonomic, and Neurocognitive responses to short-term 6° HDT",
   "Exploring how altered gravitational loading shapes performance and recovery",
   //"Terrestrial translation: Applying these findings to clinical populations (e.g., bed rest, orthostatic intolerance) and athletic populations (recovery and performance strategies)",
   "Exploring long-term HDT studies to characterize adaptation, deconditioning, and countermeasure effectiveness for astronauts",
